@@ -297,6 +297,19 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta GIT E AWS > AWS — Google Drive](https://drive.google.com/drive/folders/131Bv-q7A4QPLl53dSEOrQJ8tsvp6nFyW)
+- [AWS_01.pptx](https://drive.google.com/file/d/1fdy7ZJGLlEJdcC79jSWDAUetuYzOeoEl/view)
+- [AWS _ Aula 2.pptx](https://drive.google.com/file/d/14TjI4tF_YVA9uiKzSvPePuCwowA0-2kH/view)
+- [AWS _ Aula 3.pptx](https://drive.google.com/file/d/1mJ1ZDzmJ4mH1nOHjFQXISaYGpnAC-bPy/view)
+- [AWS _ Aula 4.pptx](https://drive.google.com/file/d/1deNAJoNuf-ahv71jPZ_u42suhFoTXlCB/view)
+- [AWS _ Aula 6.pptx](https://drive.google.com/file/d/1hIStpindf52EEMjE3k7l-IC7t4uFb5PU/view)
+- [AWS _ Aula X.pptx](https://drive.google.com/file/d/16serq5WTfBV097N5Fssz59sloPfwEj_-/view)
+- [kahoot_aws.csv](https://drive.google.com/file/d/1mOsxvZO9lAlaGIU9iPFtcWqGVXYthxdh/view)
+
+---
+
 ## Próximo módulo
 
 → [Projeto Final Python](../modulos/projeto-final-python.md)

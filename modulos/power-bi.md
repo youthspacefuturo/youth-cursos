@@ -301,6 +301,12 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Python X Banco com Streamlit.pptx](https://drive.google.com/file/d/1X2yU2HUwSi91VWhZ3bj_5QXGfssdPx-7/view)
+
+---
+
 ## Recursos Complementares
 
 - [Info](../recursos/dax/vendas-mais/info.md)

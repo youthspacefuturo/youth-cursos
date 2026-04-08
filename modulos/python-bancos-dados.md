@@ -306,5 +306,20 @@ Ao final do módulo, o aluno entrega:
 → [Rest Api Git](../modulos/rest-api-git.md)
 
 ---
+## Materiais do Professor
+
+- [Pasta 02. Python + Banco — Google Drive](https://drive.google.com/drive/folders/12Q5u8Zgl4L_GhQYgI3weJR65vplLuD6D)
+- [Funções.pptx](https://drive.google.com/file/d/150sp9-prU84QCPNTz_ZCpLuACUfISa_q/view)
+- [Bibliotecas e módulos.pptx](https://drive.google.com/file/d/1IvVQEVM4Pttdf9oNWw42FyaVhrVvwzIh/view)
+- [Banco de Dados - Parte 01](https://drive.google.com/file/d/1LRXmmnocsERrSftkWvPKJu1YQ6uSBl5S/view)
+- [Banco de Dados - Parte 02](https://drive.google.com/file/d/18gOhbHRDibcZy9vzWHjXswikfkKqYFGp/view)
+- [Banco de Dados - Parte 03](https://drive.google.com/file/d/1kuk9l3WLC3mjCoU3k0DVg50gYUakeFt1/view)
+- [Tuplas e dicionários.pptx](https://drive.google.com/file/d/1fd2CKsXCORgVEmFzOg9DVQmKWwTOM7jM/view)
+- [POO.pptx](https://drive.google.com/file/d/1wSVdFm4JGB3gtFDw1C4z6iQ4mmJc3fd0/view)
+- [Python X Banco com PyQT5.pptx](https://drive.google.com/file/d/1pJJuTu96n-9bzXLxJai23V3t0bsIJ3CU/view)
+- [kahoot_funcoes.csv](https://drive.google.com/file/d/1ej6JZhY1w7Q4D2yfY61uU2054HSoJ5o5/view)
+- [kahoot_modulos_bibliotecas.csv](https://drive.google.com/file/d/1jPZ3Ten5AARF8wa8HGKXS3a9c79y3lGS/view)
+
+---
 
 #modulo #python #sql #sqlite #sqlalchemy #oop

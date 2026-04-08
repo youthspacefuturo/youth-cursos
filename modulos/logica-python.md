@@ -92,4 +92,15 @@
 
 ---
 
+## Materiais do Professor
+
+- [Pasta 01. Lógica da Programação — Google Drive](https://drive.google.com/drive/folders/13PpcHNWPKGN2_ZUZ2O86edq5mKGM1HtB)
+- [Aula 01 - Iniciando com Python.pptx](https://drive.google.com/file/d/1KuhURfCg4XWdmFjnx9hyYIhtkflSsD0d/view)
+- [Aula 02 - Condicionais.pptx](https://drive.google.com/file/d/1JiIo17FX65hCt3Obf9pnpu0eBcUoWC6V/view)
+- [Aula 03 - Laços de Repetição com Python.pptx](https://drive.google.com/file/d/1b9j9fhC4OkrJRDC-2uTV63Db8lo8gzm1/view)
+- [Aula 04 - Listas.pptx](https://drive.google.com/file/d/1PaSaJNBPBbIcMTtwsS1vVUmO4Fa1rfwx/view)
+- [Pasta 02. Python + Banco — Google Drive](https://drive.google.com/drive/folders/12Q5u8Zgl4L_GhQYgI3weJR65vplLuD6D)
+
+---
+
 #modulo #python #logica #fundamentos

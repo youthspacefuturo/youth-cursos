@@ -294,6 +294,18 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta FAST API — Google Drive](https://drive.google.com/drive/folders/1BQruvUzAc08bT9uqT0fZEwTjSegIfJau)
+- [Mod 3- Aula 1 DFS Python POO.pptx](https://drive.google.com/file/d/1M7t8pVgV9Xbh1ouIhsqma_T0RAyUJshI/view)
+- [Mod 3- Aula 2 DFS Python POO.pptx](https://drive.google.com/file/d/1ViTYd3ioIp8x2BxTQpp6XnuyyNhYIQ2Y/view)
+- [Mod 3- Aula 03 DFS Python Tratamento Erro.pptx](https://drive.google.com/file/d/1PfULeV4HWuGSPD8YRVN_h5MVFVZLHAGM/view)
+- [Mod 3- Aula 4 DFS Python.pptx](https://drive.google.com/file/d/1G2kqn8ZgQWcnoYxEy3jmjEXT8j3wSFcF/view)
+- [Mod 3- Aula 5 DFS Python.pptx](https://drive.google.com/file/d/1xBIENckW7AyUpa3NSgeIgUjJLP1XnpAb/view)
+- [Mod3 Python - Aula 6.pptx](https://drive.google.com/file/d/1kTVpFmbmlMyIzVVxpNv21yDN1b0rezco/view)
+
+---
+
 ## Próximo módulo
 
 → [Power Bi](../modulos/power-bi.md)

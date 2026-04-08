@@ -292,6 +292,18 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta GIT + NODE.JS — Google Drive](https://drive.google.com/drive/folders/1QXe9Pq4K1Fc-L8dQXmHXtdWCllCIOVjk)
+- [Pasta GIT — Google Drive](https://drive.google.com/drive/folders/1y8GQBN54XOIxwg_mFIsPURMsSlNwyNdF)
+- [git & github - aula1.pptx](https://drive.google.com/file/d/1JzcvmJwl0ylSGLyLVdgIqMkKT2MGc7uo/view)
+- [Git & github - aula2.pptx](https://drive.google.com/file/d/1wxKLk19yltb1LLsP1KcmIy0EWDR2CSwe/view)
+- [Git & github - aula3.pptx](https://drive.google.com/file/d/12mBBNm5Qi0tJUE9fuc0bUR8l3KQj4SjJ/view)
+- [Git & github - aula4.pptx](https://drive.google.com/file/d/1kQtnZbjbw5uXOPvqrmeBD16gWnbsYrA/view)
+- [CRUD COMPLETO.docx](https://drive.google.com/file/d/1_WceKxmufMz0_kDe2syKv3vWUEqTGT4e/view)
+
+---
+
 ## Próximo módulo
 
 → [Flask](../modulos/flask.md)
