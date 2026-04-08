@@ -27,7 +27,7 @@ A base é composta pelas seguintes tabelas:
 
 ## Dados Gerados
 
-O script [[script.md]] gera CSVs fictícios com dados realistas:
+O script [Script](script.md) gera CSVs fictícios com dados realistas:
 - 500 clientes de 6 cidades do Nordeste
 - 100 produtos em 4 categorias
 - 20 vendedores por região

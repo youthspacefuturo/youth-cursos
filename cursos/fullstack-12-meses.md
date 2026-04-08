@@ -18,24 +18,24 @@
 
 | Módulo | Aulas | Carga Horária |
 |--------|-------|---------------|
-| [[modulos/html-css]] | 4 | 16h |
-| [[modulos/javascript-1]] | 2 | 8h |
-| [[modulos/javascript-2]] | 6 | 24h |
-| [[modulos/html-css-avancado]] | 4 | 16h |
+| [Html Css](modulos/html-css.md) | 4 | 16h |
+| [Javascript 1](modulos/javascript-1.md) | 2 | 8h |
+| [Javascript 2](modulos/javascript-2.md) | 6 | 24h |
+| [Html Css Avancado](modulos/html-css-avancado.md) | 4 | 16h |
 
 ### Fase 2 — Especialização (circular)
 
 | Módulo | Aulas | Carga Horária |
 |--------|-------|---------------|
-| [[modulos/nodejs-git-github]] | 8 | 32h |
-| [[modulos/reactjs]] | 8 | 32h |
-| [[modulos/ux-ui-figma]] | 8 | 32h |
+| [Nodejs Git Github](modulos/nodejs-git-github.md) | 8 | 32h |
+| [Reactjs](modulos/reactjs.md) | 8 | 32h |
+| [Ux Ui Figma](modulos/ux-ui-figma.md) | 8 | 32h |
 
 ### Fase 3 — Projeto Final
 
 | Módulo | Aulas | Carga Horária |
 |--------|-------|---------------|
-| [[modulos/projeto-final]] | 6 | 24h |
+| [Projeto Final](modulos/projeto-final.md) | 6 | 24h |
 
 ## TOTAL
 
@@ -52,6 +52,6 @@
 
 ---
 
-**Próximo módulo:** [[modulos/html-css]]
+**Próximo módulo:** [Html Css](modulos/html-css.md)
 
 #curso #fullstack #12-meses #youth-space

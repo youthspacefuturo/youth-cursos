@@ -6,7 +6,7 @@
 
 - **Aulas:** 2 (de 4h cada)
 - **Carga horária:** 8h
-- **Posição na trilha:** [[cursos/fullstack-12-meses#fase-1--fundamentos-linear]]
+- **Posição na trilha:** [Fullstack 12 Meses#fase 1 Fundamentos Linear](cursos/fullstack-12-meses#fase-1--fundamentos-linear.md)
 
 ---
 ## Aulas
@@ -94,7 +94,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [[modulos/javascript-2]]
+→ [Javascript 2](modulos/javascript-2.md)
 
 ---
 

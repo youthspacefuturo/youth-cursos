@@ -12,19 +12,19 @@
 
 | Curso | Duração | Aulas | Carga Horária |
 |-------|---------|-------|---------------|
-| [[cursos/fullstack-12-meses]] (JavaScript) | 12 meses | 46 | 184h |
-| [[cursos/fullstack-python]] (Python) | 12 meses | 48 | 192h |
-| [[cursos/data-science]] (Python) | 12 meses | 40 | 160h |
+| [Fullstack 12 Meses](cursos/fullstack-12-meses.md) (JavaScript) | 12 meses | 46 | 184h |
+| [Fullstack Python](cursos/fullstack-python.md) (Python) | 12 meses | 48 | 192h |
+| [Data Science](cursos/data-science.md) (Python) | 12 meses | 40 | 160h |
 
 **Total: 134 aulas / 536 horas**
 
 ## Navegação Rápida
 
-### [[cursos/fullstack-12-meses|fullstack-12-meses (JavaScript)]]
+### [Fullstack 12 Meses](cursos/fullstack-12-meses.md)
 
-### [[cursos/fullstack-python|fullstack-python (Python)]]
+### [Fullstack Python](cursos/fullstack-python.md)
 
-### [[cursos/data-science|data-science (Python)]]
+### [Data Science](cursos/data-science.md)
 
 ---
 

@@ -6,7 +6,7 @@
 
 - **Aulas:** 6 (de 4h cada)
 - **Carga horária:** 24h
-- **Posição na trilha:** [[cursos/fullstack-12-meses#fase-3--projeto-final]]
+- **Posição na trilha:** [Fullstack 12 Meses#fase 3 Projeto Final](cursos/fullstack-12-meses#fase-3--projeto-final.md)
 
 ---
 ## Aulas

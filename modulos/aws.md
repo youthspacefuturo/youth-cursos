@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Posição na trilha:** [[cursos/fullstack-python#fase-2--especializacao-circular]]
+- **Posição na trilha:** [Fullstack Python#fase 2 Especializacao Circular](cursos/fullstack-python#fase-2--especializacao-circular.md)
 
 ---
 ## Aulas
@@ -299,7 +299,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [[modulos/projeto-final-python]]
+→ [Projeto Final Python](modulos/projeto-final-python.md)
 
 ---
 

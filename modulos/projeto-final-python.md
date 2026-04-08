@@ -6,7 +6,7 @@
 
 - **Aulas:** 6 (de 4h cada)
 - **Carga horária:** 24h
-- **Posição na trilha:** [[cursos/fullstack-python#fase-3--projeto-final]]
+- **Posição na trilha:** [Fullstack Python#fase 3 Projeto Final](cursos/fullstack-python#fase-3--projeto-final.md)
 
 ---
 ## Aulas

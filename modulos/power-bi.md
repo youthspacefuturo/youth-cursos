@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Cursos que utilizam este módulo:** [[cursos/fullstack-python]] · [[cursos/data-science]]
+- **Cursos que utilizam este módulo:** [Fullstack Python](cursos/fullstack-python.md) · [Data Science](cursos/data-science.md)
 
 ---
 ## Aulas
@@ -303,15 +303,15 @@ Ao final do módulo, o aluno entrega:
 
 ## Recursos Complementares
 
-- [[recursos/dax/vendas-mais/info|VendaMais — Contexto da Empresa]]
-- [[recursos/dax/vendas-mais/exercicios|Exercícios DAX - VendaMais]]
-- [[recursos/dax/vendas-mais/resolucoes|Resoluções DAX - VendaMais]]
+- [Info](recursos/dax/vendas-mais/info.md)
+- [Exercicios](recursos/dax/vendas-mais/exercicios.md)
+- [Resolucoes](recursos/dax/vendas-mais/resolucoes.md)
 
 ---
 
 ## Próximo módulo
 
-→ [[modulos/aws]] ou [[modulos/aws-git-data]]
+→ [Aws](modulos/aws.md) ou [Aws Git Data](modulos/aws-git-data.md)
 
 ---
 

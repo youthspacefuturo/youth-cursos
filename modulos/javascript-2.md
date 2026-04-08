@@ -6,7 +6,7 @@
 
 - **Aulas:** 6 (de 4h cada)
 - **Carga horária:** 24h
-- **Posição na trilha:** [[cursos/fullstack-12-meses#fase-1--fundamentos-linear]]
+- **Posição na trilha:** [Fullstack 12 Meses#fase 1 Fundamentos Linear](cursos/fullstack-12-meses#fase-1--fundamentos-linear.md)
 
 ---
 ## Aulas
@@ -232,7 +232,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [[modulos/html-css-avancado]]
+→ [Html Css Avancado](modulos/html-css-avancado.md)
 
 ---
 

@@ -18,23 +18,23 @@
 
 | Módulo | Aulas | Carga Horária |
 |--------|-------|---------------|
-| [[modulos/logica-python]] | 2 | 8h |
-| [[modulos/python-bancos-dados]] | 8 | 32h |
-| [[modulos/aws-git-data]] | 8 | 32h |
+| [Logica Python](modulos/logica-python.md) | 2 | 8h |
+| [Python Bancos Dados](modulos/python-bancos-dados.md) | 8 | 32h |
+| [Aws Git Data](modulos/aws-git-data.md) | 8 | 32h |
 
 ### Fase 2 — Especialização (circular)
 
 | Módulo | Aulas | Carga Horária |
 |--------|-------|---------------|
-| [[modulos/power-bi]] | 8 | 32h |
-| [[modulos/data-analytics-1]] | 8 | 32h |
-| [[modulos/data-analytics-2]] | 8 | 32h |
+| [Power Bi](modulos/power-bi.md) | 8 | 32h |
+| [Data Analytics 1](modulos/data-analytics-1.md) | 8 | 32h |
+| [Data Analytics 2](modulos/data-analytics-2.md) | 8 | 32h |
 
 ### Fase 3 — Projeto Final
 
 | Módulo | Aulas | Carga Horária |
 |--------|-------|---------------|
-| [[modulos/projeto-final-data]] | 6 | 24h |
+| [Projeto Final Data](modulos/projeto-final-data.md) | 6 | 24h |
 
 ## TOTAL
 
@@ -53,6 +53,6 @@
 
 ---
 
-**Próximo módulo:** [[modulos/logica-python]]
+**Próximo módulo:** [Logica Python](modulos/logica-python.md)
 
 #curso #datascience #python #12-meses #youth-space

@@ -6,7 +6,7 @@
 
 - **Aulas:** 4 (de 4h cada)
 - **Carga horária:** 16h
-- **Posição na trilha:** [[cursos/fullstack-12-meses#fase-1--fundamentos-linear]]
+- **Posição na trilha:** [Fullstack 12 Meses#fase 1 Fundamentos Linear](cursos/fullstack-12-meses#fase-1--fundamentos-linear.md)
 
 ---
 ## Aulas
@@ -161,7 +161,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [[modulos/nodejs-git-github]]
+→ [Nodejs Git Github](modulos/nodejs-git-github.md)
 
 ---
 

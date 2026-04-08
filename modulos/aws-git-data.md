@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Posição na trilha:** [[cursos/data-science#fase-1--fundamentos-linear]]
+- **Posição na trilha:** [Data Science#fase 1 Fundamentos Linear](cursos/data-science#fase-1--fundamentos-linear.md)
 
 ---
 ## Aulas
@@ -300,7 +300,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [[modulos/power-bi]]
+→ [Power Bi](modulos/power-bi.md)
 
 ---
 

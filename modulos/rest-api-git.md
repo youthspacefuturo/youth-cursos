@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Posição na trilha:** [[cursos/fullstack-python#fase-1--fundamentos-linear]]
+- **Posição na trilha:** [Fullstack Python#fase 1 Fundamentos Linear](cursos/fullstack-python#fase-1--fundamentos-linear.md)
 
 ---
 ## Aulas
@@ -294,7 +294,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [[modulos/flask]]
+→ [Flask](modulos/flask.md)
 
 ---
 
