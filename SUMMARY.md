@@ -26,7 +26,7 @@
   * [REST API & Git — Módulo 3](modulos/rest-api-git.md)
   * [UX/UI & Figma — Módulo 7](modulos/ux-ui-figma.md)
 * [Recursos Complementares](recursos/README.md)
-  * [dax](recursos/dax/README.md)
+  * [DAX](recursos/dax/README.md)
     * [vendas-mais](recursos/dax/vendas-mais/README.md)
       * [Exercícios DAX](recursos/dax/vendas-mais/exercicios.md)
       * [VendaMais Distribuidora](recursos/dax/vendas-mais/info.md)

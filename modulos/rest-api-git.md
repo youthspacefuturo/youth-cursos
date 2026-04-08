@@ -90,9 +90,9 @@
 - CORS com `flask-cors`
 
 **Exercícios práticos (escolha um):**
-1. API de frases motivacionais: GET /frases (lista), GET /frases/<id>, GET /frases/aleatoria
+1. API de frases motivacionais: GET /frases (lista), GET `/frases/<id>`, GET `/frases/aleatoria`
 2. API de calculadora: rotas para soma, subtração, multiplicação, divisão via query params
-3. API de consulta de CEP (simular com dados hardcoded): GET /cep/<cep> retorna cidade e estado
+3. API de consulta de CEP (simular com dados hardcoded): GET `/cep/<cep>` retorna cidade e estado
 
 **Recursos:**
 - [Flask Official Docs](https://flask.palletsprojects.com/)
