@@ -114,7 +114,7 @@ Some o `custo_total` apenas das vendas concluídas.
 Calcule a diferença entre o Total de Vendas e o Total de Custo.
 
 **4. Margem %**
-Calcule o percentual de margem sobre o Total de Vendas. Use `DIVIDE` para evitar erro de divisão por zero.
+Calcule o percentual de margem sobre o Total de Vendas. Use `DIVIDE(coluna1, coluna2)` para evitar erro de divisão por zero.
 
 **5. Quantidade Vendida**
 Some a quantidade de itens em vendas concluídas.
@@ -130,7 +130,7 @@ Calcule o valor médio por venda concluída.
 ### Clientes e Produtos
 
 **8. Clientes Únicos**
-Conte o número de clientes distintos que realizaram ao menos uma compra concluída.
+Conte o número de clientes distintos que realizaron ao menos uma compra concluída.
 
 **9. Produtos Vendidos**
 Conte o número de produtos distintos presentes em vendas concluídas.
